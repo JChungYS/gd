@@ -1,7 +1,7 @@
 Frequently used web:
 1.引得市[MeBag](http://www.mebag.com/index/)
 
-2.[國學大師](http://www.guoxuedashi.com/） 
+2.[國學大師](http://www.guoxuedashi.net/） 
 
 3.[字統網](https://zi.tools/ )
 

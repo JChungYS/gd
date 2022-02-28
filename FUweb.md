@@ -32,6 +32,14 @@ How to install nvm on Mac / Mac Terminal- Command not found: nvm - https://www.y
 A node.js version management utility for Windows - https://github.com/coreybutler/nvm-windows Homebrew The Missing Package Manager for macOS (or Linux) - https://brew.sh/ 
 
 ---
+JavaScript Higher Order Functions & Arrays - https://www.youtube.com/watch?v=rRgD1yVwIvE
+for...of... JavaScript | MDN - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of
+break statement | ECMAScript - https://tc39.es/ecma262/multipage/ecmascript-language-statements-and-declarations.html#sec-break-statement
+Exit from if block in Javascript - https://stackoverflow.com/questions/20139292/exit-from-if-block-in-javascript
+Learn Regular Expressions In 20 Minutes - https://www.youtube.com/watch?v=rhzKDrUiJ
+
+
+
 1.引得市[MeBag](http://www.mebag.com/index/)
 
 2.[国学大师]  http://www.guoxuedashi.net/
